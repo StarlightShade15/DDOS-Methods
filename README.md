@@ -1,7 +1,12 @@
 #  -  DDOS Methods  -  
 
+## Description
 
+**This repository is going to be splitted into multiple categories.**
+#### *DDOS Methods*
+#### *C2 Source Code*
 
+--------------------------------------------------
 
 ## DISCLAIMER
 
