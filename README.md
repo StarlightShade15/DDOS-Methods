@@ -4,6 +4,7 @@
 
 **This repository is going to be splitted into multiple categories.**
 * *DDOS Methods*
+* *Optimizations*
 * *C2 Source Code*
 
 --------------------------------------------------
