@@ -5,7 +5,7 @@
 **This repository is going to be splitted into multiple categories.**
 * *DDOS Methods*
 * *C2 Source Code*
-* 
+
 --------------------------------------------------
 
 This repository is strictly headed towards C2s ( some resource to understand what C2s are includes:
