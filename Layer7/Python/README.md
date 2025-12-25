@@ -8,7 +8,7 @@
 ------------------------------------------------------------------------------------------
 
 `_http.py`:
-* Usage: _http.py <url> <port> <duration> <thread>
+* Usage: _http.py `<url>` `<port>` `<duration>` `<thread>`
 
 This tool sends raw HTTP/1.1 request using socket, and threading to make rapid requests for a HTTP web server ( NO PROTECTION / TLS )
 
