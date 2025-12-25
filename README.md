@@ -4,7 +4,11 @@
 
 **This repository is going to be splitted into multiple categories.**
 * *DDOS Methods*
+
+-----------------
 * *Optimizations*
+-----------------
+
 * *C2 Source Code*
 
 --------------------------------------------------
@@ -35,4 +39,7 @@ English:
 ## DISCLAIMER
 
 ### This repository is ONLY for Educational and Learning purposes.
+### DO NOT DO THIS ON UN-AUTHORIZED NETWORKS !
 ### I do not take responsabilities for any damage YOU make.
+
+### Please do not use the optimization on linux machines that you care about, it can destroy your linux distro.
